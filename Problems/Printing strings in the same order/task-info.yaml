@@ -1,0 +1,33 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2923
+status: Solved
+feedback:
+  message: |+
+    Failed test #1 of 2. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    Hello
+    Java
+    Future programmer
+    Correct output:
+    Hello
+    Java
+    Future
+    programmer
+
+    Your code output:
+
+  time: Sun, 02 Aug 2020 10:54:18 UTC
+record: -1

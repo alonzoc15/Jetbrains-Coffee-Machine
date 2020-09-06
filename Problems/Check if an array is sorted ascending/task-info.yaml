@@ -1,0 +1,30 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2140
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 11. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    4
+    1 2 3 4
+
+    Correct output:
+    true
+
+    Your code output:
+    Array Elements in Ascending Order: 1, 2, 3, 4
+  time: Fri, 04 Sep 2020 08:53:54 UTC
+record: -1

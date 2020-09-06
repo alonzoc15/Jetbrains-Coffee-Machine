@@ -1,0 +1,27 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Scanner;
+
+    class Main {
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2219
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    Main.java:7: error: cannot find symbol
+            int n = number;
+                    ^
+      symbol:   variable number
+      location: class Main
+    1 error
+  time: Sun, 02 Aug 2020 22:02:54 UTC
+record: -1

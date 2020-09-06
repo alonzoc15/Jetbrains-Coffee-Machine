@@ -1,0 +1,33 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Scanner;
+
+    class Main {
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2142
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 10. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    5
+    1 2 3 4 5
+    Correct output:
+    5 1 2 3 4
+
+    Your code output:
+    Enter number of elements you want in the array: Enter array elements:
+    Array Elements in Ascending Order: 1, 2, 3, 4, 5
+  time: Fri, 04 Sep 2020 08:51:46 UTC
+record: -1
